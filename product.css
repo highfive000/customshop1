@@ -1,0 +1,21 @@
+.Item{
+	position:relative;
+	height:1300px;
+
+}
+
+
+.itemPhoto{
+	background-color:grey;
+	width:400px;
+	height:400px;
+	margin: 0 auto;
+	top:100px;
+	position:relative;
+}
+
+.itemInfo{
+	position:relative;
+	left:300px;
+	top:-270px;
+}

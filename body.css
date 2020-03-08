@@ -1,0 +1,129 @@
+@font-face{
+	font-family: Cairo-Light;
+	src: url(./fonts/Cairo/Cairo-Light.ttf);
+}
+
+
+
+h1{
+	font-family:Muli;
+	font-weight:800;
+	font-size:42px;
+
+}
+
+
+.searchBox{
+	height:30px;
+	
+}
+
+.Featured{
+	background-color:#f2f2f2;
+	position:relative;
+	padding-top:10px;
+	padding-bottom:40px;
+	top:0px;
+	box-shadow:2px 2px 2px rgb(0,0,0,0.2);
+
+
+
+}
+.Categories{
+	position:relative;
+	top:30px;
+	height:600px;
+
+}
+.Category{
+	
+	position:relative;
+	top:80px;
+}
+
+
+.product{
+	position:relative;
+	width:241px;
+	height:307px;
+	background-color:#5A5557;
+	display:inline-block;
+	margin-left:80px;
+	margin-top:40px;
+	left:-35px;
+	border:2px solid #f8f9fa;
+	text-align:left;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	color:white;
+
+	
+
+}
+
+.product img{
+	border-bottom:1px solid rgb(90,85,87,0.2);
+}
+
+.product:hover{
+	border:2px solid black;
+	cursor:pointer;
+}
+
+
+.prodName{
+	position:relative;
+	left:10px;
+	font-family:Cairo-Light;
+	font-weight:400;
+	font-size:18px;
+}
+
+.prodPrice{
+	position:relative;
+	left:10px;
+	font-family:Cairo-Light;
+	font-weight:600;
+	margin-top:-7px;
+}
+
+
+.logoimg{
+	height:100px;
+	width:100%;
+	margin:0;
+	overflow:hidden;
+
+
+
+}
+.logoimg img{
+	display:block;
+	width: 100%;
+	box-shadow:5px 5px 8px 5px rgb(0,0,0,0.4);
+
+
+
+}
+
+
+.category{
+	width:241px;
+	height:272px;
+	margin:0 auto;
+	background-color:white;
+	font-family:Muli;
+	font-weight:600;
+	font-size:25px;
+	display:inline-block;
+	position:relative;
+	margin-left:80px;
+	left:-35px;
+	border:2px solid white;
+}
+
+.category:hover{
+	border:2px solid orange;
+	cursor:pointer;
+	
+}
