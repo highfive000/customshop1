@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/customshop1/static/css/main.7c91fc40.chunk.css",
-    "main.js": "/customshop1/static/js/main.80ee2269.chunk.js",
-    "main.js.map": "/customshop1/static/js/main.80ee2269.chunk.js.map",
+    "main.js": "/customshop1/static/js/main.20cd5d44.chunk.js",
+    "main.js.map": "/customshop1/static/js/main.20cd5d44.chunk.js.map",
     "runtime-main.js": "/customshop1/static/js/runtime-main.88fe7d17.js",
     "runtime-main.js.map": "/customshop1/static/js/runtime-main.88fe7d17.js.map",
     "static/js/2.e1f7166f.chunk.js": "/customshop1/static/js/2.e1f7166f.chunk.js",
     "static/js/2.e1f7166f.chunk.js.map": "/customshop1/static/js/2.e1f7166f.chunk.js.map",
     "index.html": "/customshop1/index.html",
-    "precache-manifest.5d5207931218593c6e7cdbdcc2906843.js": "/customshop1/precache-manifest.5d5207931218593c6e7cdbdcc2906843.js",
+    "precache-manifest.fd025cc36ac9bb25c806d473cc3cd626.js": "/customshop1/precache-manifest.fd025cc36ac9bb25c806d473cc3cd626.js",
     "service-worker.js": "/customshop1/service-worker.js",
     "static/css/main.7c91fc40.chunk.css.map": "/customshop1/static/css/main.7c91fc40.chunk.css.map",
     "static/js/2.e1f7166f.chunk.js.LICENSE.txt": "/customshop1/static/js/2.e1f7166f.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.88fe7d17.js",
     "static/js/2.e1f7166f.chunk.js",
     "static/css/main.7c91fc40.chunk.css",
-    "static/js/main.80ee2269.chunk.js"
+    "static/js/main.20cd5d44.chunk.js"
   ]
 }
