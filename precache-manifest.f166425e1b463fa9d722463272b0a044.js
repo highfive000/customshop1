@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38db5e4bb1866258c99ea6775e3e05c5",
+    "revision": "27aa93bb1d94bfcb07f80b7293fd393a",
     "url": "/customshop1/index.html"
   },
   {
-    "revision": "25a2c805ffe825863792",
+    "revision": "4e570360b9e6c78a515b",
     "url": "/customshop1/static/css/main.477956ba.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/customshop1/static/js/2.4e57e21d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25a2c805ffe825863792",
-    "url": "/customshop1/static/js/main.13804da1.chunk.js"
+    "revision": "4e570360b9e6c78a515b",
+    "url": "/customshop1/static/js/main.3020b132.chunk.js"
   },
   {
     "revision": "264bb8ccb88fe972af9a",
