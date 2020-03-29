@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/customshop1/static/css/main.7e1367f6.chunk.css",
-    "main.js": "/customshop1/static/js/main.a5e16313.chunk.js",
-    "main.js.map": "/customshop1/static/js/main.a5e16313.chunk.js.map",
+    "main.css": "/customshop1/static/css/main.81d0334d.chunk.css",
+    "main.js": "/customshop1/static/js/main.c21060df.chunk.js",
+    "main.js.map": "/customshop1/static/js/main.c21060df.chunk.js.map",
     "runtime-main.js": "/customshop1/static/js/runtime-main.88fe7d17.js",
     "runtime-main.js.map": "/customshop1/static/js/runtime-main.88fe7d17.js.map",
     "static/js/2.d38fa68e.chunk.js": "/customshop1/static/js/2.d38fa68e.chunk.js",
     "static/js/2.d38fa68e.chunk.js.map": "/customshop1/static/js/2.d38fa68e.chunk.js.map",
     "index.html": "/customshop1/index.html",
-    "precache-manifest.31e85ff7b579c342310c733ddf1c374e.js": "/customshop1/precache-manifest.31e85ff7b579c342310c733ddf1c374e.js",
+    "precache-manifest.47c6be183bc098cb405a63fcf593ad5a.js": "/customshop1/precache-manifest.47c6be183bc098cb405a63fcf593ad5a.js",
     "service-worker.js": "/customshop1/service-worker.js",
-    "static/css/main.7e1367f6.chunk.css.map": "/customshop1/static/css/main.7e1367f6.chunk.css.map",
+    "static/css/main.81d0334d.chunk.css.map": "/customshop1/static/css/main.81d0334d.chunk.css.map",
     "static/js/2.d38fa68e.chunk.js.LICENSE.txt": "/customshop1/static/js/2.d38fa68e.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/customshop1/static/media/1.aed05d55.jpg",
     "static/media/11.jpg": "/customshop1/static/media/11.459db987.jpg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.88fe7d17.js",
     "static/js/2.d38fa68e.chunk.js",
-    "static/css/main.7e1367f6.chunk.css",
-    "static/js/main.a5e16313.chunk.js"
+    "static/css/main.81d0334d.chunk.css",
+    "static/js/main.c21060df.chunk.js"
   ]
 }
