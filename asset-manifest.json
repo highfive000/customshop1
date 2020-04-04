@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/customshop1/static/css/main.f5e651f1.chunk.css",
-    "main.js": "/customshop1/static/js/main.b24ecae6.chunk.js",
-    "main.js.map": "/customshop1/static/js/main.b24ecae6.chunk.js.map",
+    "main.css": "/customshop1/static/css/main.1cc5b8a6.chunk.css",
+    "main.js": "/customshop1/static/js/main.16179330.chunk.js",
+    "main.js.map": "/customshop1/static/js/main.16179330.chunk.js.map",
     "runtime-main.js": "/customshop1/static/js/runtime-main.88fe7d17.js",
     "runtime-main.js.map": "/customshop1/static/js/runtime-main.88fe7d17.js.map",
-    "static/js/2.ec92dbe2.chunk.js": "/customshop1/static/js/2.ec92dbe2.chunk.js",
-    "static/js/2.ec92dbe2.chunk.js.map": "/customshop1/static/js/2.ec92dbe2.chunk.js.map",
+    "static/js/2.c9168640.chunk.js": "/customshop1/static/js/2.c9168640.chunk.js",
+    "static/js/2.c9168640.chunk.js.map": "/customshop1/static/js/2.c9168640.chunk.js.map",
     "index.html": "/customshop1/index.html",
-    "precache-manifest.e25cf902fe3db5daf36493d48a6b9f57.js": "/customshop1/precache-manifest.e25cf902fe3db5daf36493d48a6b9f57.js",
+    "precache-manifest.e96b0e82ff419f51785cad23fe1eeeb5.js": "/customshop1/precache-manifest.e96b0e82ff419f51785cad23fe1eeeb5.js",
     "service-worker.js": "/customshop1/service-worker.js",
-    "static/css/main.f5e651f1.chunk.css.map": "/customshop1/static/css/main.f5e651f1.chunk.css.map",
-    "static/js/2.ec92dbe2.chunk.js.LICENSE.txt": "/customshop1/static/js/2.ec92dbe2.chunk.js.LICENSE.txt",
+    "static/css/main.1cc5b8a6.chunk.css.map": "/customshop1/static/css/main.1cc5b8a6.chunk.css.map",
+    "static/js/2.c9168640.chunk.js.LICENSE.txt": "/customshop1/static/js/2.c9168640.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/customshop1/static/media/1.aed05d55.jpg",
     "static/media/11.jpg": "/customshop1/static/media/11.459db987.jpg",
     "static/media/12.jpg": "/customshop1/static/media/12.d40c350d.jpg",
@@ -31,12 +31,13 @@
     "static/media/logoshoes.jpg": "/customshop1/static/media/logoshoes.53087752.jpg",
     "static/media/navigateL.png": "/customshop1/static/media/navigateL.c2a19b92.png",
     "static/media/navigateR.png": "/customshop1/static/media/navigateR.55dcfb09.png",
+    "static/media/search.png": "/customshop1/static/media/search.a6bb8656.png",
     "static/media/training2.jpg": "/customshop1/static/media/training2.b589cdde.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.88fe7d17.js",
-    "static/js/2.ec92dbe2.chunk.js",
-    "static/css/main.f5e651f1.chunk.css",
-    "static/js/main.b24ecae6.chunk.js"
+    "static/js/2.c9168640.chunk.js",
+    "static/css/main.1cc5b8a6.chunk.css",
+    "static/js/main.16179330.chunk.js"
   ]
 }
